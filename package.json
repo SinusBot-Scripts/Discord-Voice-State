@@ -1,32 +1,21 @@
 {
-  "name": "@sinusbot-scripts/sinusbot-support",
-  "version": "2.2.1",
-  "description": "Script originally wrote by [irgendwr](https://github.com/irgendwr/sinusbot-scripts).",
+  "name": "@sinusbot-scripts/discord-voice-state",
+  "version": "2.0.0",
+  "description": "This plugin caches the voicestate of a webuser and checks if the bot is in the same channel as the webuser.",
   "main": "discord-sinusbot.js",
   "scripts": {
     "test": "node dummy-test.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sinusbot-scripts/sinusbot-support.git"
+    "url": "git+https://github.com/sinusbot-scripts/discord-voice-state.git"
   },
-  "contributors": [
-    {
-      "name": "Andreas Fink",
-      "email": "andreas@andreasfink.xyz",
-      "url": "https://github.com/AFink"
-    },
-    {
-      "name": "Lala Sabathil",
-      "email": "aiko@aitsys.dev",
-      "url": "https://github.com/Lulalaby"
-    }
-  ],
+  "author": "Lala Sabathil <aiko@aitsys.dev>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sinusbot-scripts/sinusbot-support/issues"
+    "url": "https://github.com/sinusbot-scripts/discord-voice-state/issues"
   },
-  "homepage": "https://github.com/sinusbot-scripts/sinusbot-support#readme",
+  "homepage": "https://github.com/sinusbot-scripts/discord-voice-state#readme",
   "devDependencies": {
     "sinusbot-scripting-engine": "^1.0.18"
   }
