@@ -1,6 +1,6 @@
 registerPlugin({
-    name: 'Voice State',
-    version: '2.0',
+    name: 'Discord Voice State',
+    version: '2.0.0',
     description: 'Caches the voice states',
     author: 'Lala Sabathil <aiko@aitsys.dev>',
     engine: '>= 1.0.0',
