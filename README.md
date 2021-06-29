@@ -1,7 +1,7 @@
 [![Package CI/CD](https://github.com/SinusBot-Scripts/Discord-Voice-State/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/SinusBot-Scripts/Discord-Voice-State/actions/workflows/npm-publish.yml)
 [![CodeQL](https://github.com/SinusBot-Scripts/Discord-Voice-State/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/SinusBot-Scripts/Discord-Voice-State/actions/workflows/codeql-analysis.yml)
 ![Version](https://img.shields.io/github/package-json/v/sinusbot-scripts/discord-voice-state)
-![npm](https://img.shields.io/npm/v/discord-voice-state)
+![npm (scoped)](https://img.shields.io/npm/v/@sinusbot-scripts/discord-voice-state)
 
 # Discord Voice States
 
